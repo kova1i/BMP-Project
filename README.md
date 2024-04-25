@@ -7,7 +7,7 @@ BMP Processor is a console application for applying various filters to images. I
 - **Supported Image Format**: Input and output images should be in BMP format.
 - **Filter Application**: Filters are applied sequentially in the order specified in the command line arguments.
 - **Basic Filters**: Included filters are Crop, Grayscale, Negative, Sharpening, Edge Detection, and Gaussian Blur.
-- **Custom Filter**: Bubble Effect.
+- **Custom Filter**: Bubbles Effect.
 
 ## Usage
 ```
