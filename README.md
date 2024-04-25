@@ -21,7 +21,7 @@ BMP Processor is a console application for applying various filters to images. I
 4. **Sharpening**: Increases image sharpness.
 5. **Edge Detection**: Highlights edges in the image.
 6. **Gaussian Blur**: Applies Gaussian blur to the image.
-7. **Bubble Effect**: Applies Bubbles Effect to the image.
+7. **Bubbles Effect**: Applies Bubbles Effect to the image.
 
 ## Note
 Ensure that test images are saved in 24-bit BMP format for proper testing.
